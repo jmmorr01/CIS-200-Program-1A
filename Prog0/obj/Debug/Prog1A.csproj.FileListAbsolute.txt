@@ -1,0 +1,7 @@
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\bin\Debug\Prog0.exe
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\bin\Debug\Prog0.pdb
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\obj\Debug\Prog1A.csprojResolveAssemblyReference.cache
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\obj\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\backs_000\Desktop\U of L Work\CIS 200\Instructor Solutions\Prog1A\Prog0\obj\Debug\Prog0.pdb
